@@ -1,5 +1,5 @@
 package sampleKiosco.vista.almacen;
-
+//
 import java.awt.Color;
 import java.awt.Component;
 
